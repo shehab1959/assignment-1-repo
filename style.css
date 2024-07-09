@@ -10,14 +10,11 @@ body{
     font-family: "Azeret Mono", monospace;
 }
 .banner-container{
-position: absolute;
 width: 1440px;
-border: 2px;
+margin: 0 auto;
+border: 2px solid white;
 min-height: 652px;
-left: 0;
-right: 0;
-top: 131px;
-bottom: 4462px;
+margin-top: 20px;
 background-image: url(pictures/Hero-bg.png);
 background-position: center;
 background-repeat: no-repeat;
@@ -49,4 +46,84 @@ background-size: cover;
     width: 208px;
     height: 66px;
     padding: 21px 24px 21px 24px;
- } 
+ }
+ .part2{
+    width: 1140px;
+margin: 0 auto;
+border: 2px solid rgb(235, 14, 14);
+min-height: 1395px;
+margin-top: 74px;
+ }
+ .part2{
+    display: flex;
+    flex-direction: column;
+    justify-content:top center;
+    height: 600px;
+    align-items: center;
+    padding: 10%;
+    }
+ 
+  .picture{
+    /* Frame 10 */
+position: static;
+width: 850px;
+height: 240px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+  }
+  .picture1{
+    /* Frame 10 */
+position: static;
+width: 850px;
+height: 240px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+  }
+  .picture2{
+    /* Frame 10 */
+position: static;
+width: 850px;
+height: 240px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+  }
+  .part3{
+    width: 1140px;
+margin: 0 auto;
+border: 2px solid rgb(235, 14, 14);
+min-height: 1395px;
+margin-top: 74px;
+ }
