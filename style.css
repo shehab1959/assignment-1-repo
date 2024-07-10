@@ -124,6 +124,135 @@ margin: 32px 0px;
     width: 1140px;
 margin: 0 auto;
 border: 2px solid rgb(235, 14, 14);
-min-height: 1395px;
+min-height: 777px;
 margin-top: 74px;
  }
+ .part3{
+    display: flex;
+    flex-direction: column;
+    justify-content:top center;
+    height: 600px;
+    align-items: center;
+    padding: 10%;
+    }
+    #part4{
+        width: 1140px;
+    margin: 0 auto;
+    border: 2px solid rgb(235, 14, 14);
+    min-height: 1163px;
+    margin-top: 74px;
+     }
+     #part4{
+        display: flex;
+        flex-direction: column;
+        justify-content:top center;
+        height: 600px;
+        align-items: center;
+        padding: 10%;
+        }
+        .part5{
+            width: 200px;
+    margin: 0 auto;
+    border: 2px solid rgb(235, 14, 14);
+    min-height: 200px;
+    margin-top: 74px;
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+        }
+       .part5{
+        /* Frame 10 */
+position: static;
+width: 284px;
+height: 220px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+       } 
+
+       .part6{
+        width: 200px;
+        margin: 0 auto;
+        border: 2px solid rgb(235, 14, 14);
+        min-height: 200px;
+        margin-top: 74px;
+        border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+       }
+       .part6{
+      /* Frame 10 */
+position: static;
+width: 284px;
+height: 220px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+       }
+
+       .part7{
+        width: 200px;
+        margin: 0 auto;
+        border: 2px solid rgb(235, 14, 14);
+        min-height: 200px;
+        margin-top: 74px;
+        border-radius: 16px;
+background: rgba(255, 223, 0, 0.05);
+       }
+       .part7{/* Frame 10 */
+        position: static;
+        width: 284px;
+        height: 220px;
+        /* Auto layout */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 0px;
+        
+        /* Inside Auto Layout */
+        flex: none;
+        order: 0;
+        align-self: stretch;
+        flex-grow: 0;
+        margin: 32px 0px;}
+
+        .part8{
+            width: 1140px;
+            margin: 0 auto;
+            border: 2px solid red;
+            min-height: 313px;
+            margin-top: 74px;
+        }
+        .part8{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 600px;
+            align-items: center;
+            padding: 10%;
+            background-image: url(pictures/handshake.jpg);
+        }
+        .box{
+            width: 480px;
+            height: 50px;
+            border-radius: 2%;
+        }
