@@ -256,3 +256,40 @@ background: rgba(255, 223, 0, 0.05);
             height: 50px;
             border-radius: 2%;
         }
+        .under{
+            text-decoration-line: underline;
+        }
+        .undera{
+            text-decoration-line: underline;
+        }
+        .underb{
+            text-decoration-line: underline;
+        }
+        .part9{
+            width: 1440px;
+            margin: 0 auto;
+            height: 100px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .part9{
+            /* Frame 24 */
+position: static;
+width: 1140px;
+height: 36px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content:space-evenly;
+align-items: center;
+padding: 0px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+        }
