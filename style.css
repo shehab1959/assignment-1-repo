@@ -50,7 +50,7 @@ background-size: cover;
  .part2{
     width: 1140px;
 margin: 0 auto;
-border: 2px solid rgb(235, 14, 14);
+border: 2px solid rgb(247, 245, 245);
 min-height: 1395px;
 margin-top: 74px;
  }
@@ -123,7 +123,7 @@ margin: 32px 0px;
   .part3{
     width: 1140px;
 margin: 0 auto;
-border: 2px solid rgb(235, 14, 14);
+border: 2px solid rgb(244, 242, 242);
 min-height: 777px;
 margin-top: 74px;
  }
@@ -138,7 +138,7 @@ margin-top: 74px;
     #part4{
         width: 1140px;
     margin: 0 auto;
-    border: 2px solid rgb(235, 14, 14);
+    border: 2px solid rgb(248, 246, 246);
     min-height: 1163px;
     margin-top: 74px;
      }
@@ -153,7 +153,7 @@ margin-top: 74px;
         .part5{
             width: 200px;
     margin: 0 auto;
-    border: 2px solid rgb(235, 14, 14);
+    border: 2px solid rgb(242, 238, 238);
     min-height: 200px;
     margin-top: 74px;
     border-radius: 16px;
@@ -182,7 +182,7 @@ margin: 32px 0px;
        .part6{
         width: 200px;
         margin: 0 auto;
-        border: 2px solid rgb(235, 14, 14);
+        border: 2px solid rgb(250, 247, 247);
         min-height: 200px;
         margin-top: 74px;
         border-radius: 16px;
@@ -211,7 +211,7 @@ margin: 32px 0px;
        .part7{
         width: 200px;
         margin: 0 auto;
-        border: 2px solid rgb(235, 14, 14);
+        border: 2px solid rgb(245, 242, 242);
         min-height: 200px;
         margin-top: 74px;
         border-radius: 16px;
@@ -238,7 +238,7 @@ background: rgba(255, 223, 0, 0.05);
         .part8{
             width: 1140px;
             margin: 0 auto;
-            border: 2px solid red;
+            border: 2px solid rgb(241, 238, 238);
             min-height: 313px;
             margin-top: 74px;
         }
